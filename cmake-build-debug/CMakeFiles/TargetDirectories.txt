@@ -1,0 +1,3 @@
+C:/Users/Fredrica/CLionProjects/gpa calculator/cmake-build-debug/CMakeFiles/gpa_calculator.dir
+C:/Users/Fredrica/CLionProjects/gpa calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fredrica/CLionProjects/gpa calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
